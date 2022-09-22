@@ -1,0 +1,4 @@
+python -m src.generate --simulator 'orca' --simulation_scene 'group_obstacle'  --mode 'trajnet' --num_ped 6 --num_scenes 100
+
+cp data/raw/controlled/orca_group_obstacle_6ped_100scenes_.txt /home/harsh2802/Desktop/Trajec/Dataset-Visualizer/data/orca/group/file.txt
+
